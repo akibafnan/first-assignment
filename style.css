@@ -1,0 +1,95 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+h1{
+    font-size: 50px;
+    padding-top: 50px;
+}
+.name-highlight{
+    font-size: 40px;
+    color: rgb(245, 104, 127);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, pink, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.photo{
+    width: 100%;
+}
+.upper{
+    background-image: url("image/latest_work_bg.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+p{
+    color: dimgray;
+    text-align: justify;
+}
+.dream{
+    background-image: url("image/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.work-head{
+    text-align: center;
+    padding-top: 100px;
+}
+.one-third{
+    width: 30%;
+    float: left;
+}
+.one-third img{
+    width: 100%;
+    margin: 10%;
+    padding: 5%;
+}
+.client{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.client h2{
+    text-align: center;
+}
+.client h4{
+    color: gray;
+    text-align: center;
+}
+.client-comment{
+    text-align: center;
+    color: black;
+}
+.contact{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.contact p{ 
+    text-align: center;
+    color: white;
+}
+.contact h2{
+    text-align: center;
+    color: whitesmoke;
+}
+.contact-background{
+    background-image: linear-gradient(45deg, pink, tomato);
+    border-radius: 20px;
+    padding: 30px 20px;
+    margin: 0px 100px;
+}
+.footer{
+    text-align: center;
+}
